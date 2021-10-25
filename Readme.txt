@@ -27,6 +27,12 @@ LIST OF FILES
 2. Lexical Analysis (see: lexer.py): regex-based tokenizer written in Python.
 	Test program is included.
 3. Write-up.pdf: includes State Transition Diagram and the problems encountered while doing the project.
+4. Test files included:
+	Helloworld.txt
+	test2.txt
+	test3.txt
+	test4.txt
+
 
 INSTALLATION
 -------------------
@@ -36,5 +42,5 @@ INSTALLATION
 	python3 setup.py install
  * Run from cs1.utdallas.edu or cs2.utdallas.edu
 	Sign into cs1.utdallas.edu server
-	Transfer lexer.py to the current directory
+	Transfer lexer.py & test files to the current directory
 	Run from terminal: python lexer.py
